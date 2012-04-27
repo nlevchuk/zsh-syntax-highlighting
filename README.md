@@ -7,22 +7,6 @@ zsh-syntax-highlighting
 
 ## Install it
 
-
-### In your ~/.zshrc
-
-* Download the script or clone this repository:
-
-      git clone git://github.com/nlevchuk/zsh-syntax-highlighting.git
-
-* Source the script **at the end** of `~/.zshrc`:
-
-      source /path/to/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-* Source `~/.zshrc`  to take changes into account:
-
-      source ~/.zshrc
-
-
 ### With oh-my-zsh
 
 * Download the script or clone this repository in [oh-my-zsh](http://github.com/robbyrussell/oh-my-zsh) plugins directory:
